@@ -1,0 +1,1 @@
+var route_meals_under_category='/meals-under-category';
